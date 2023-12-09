@@ -9,10 +9,6 @@ This weather website is a simple application built using HTML, CSS, and JavaScri
 - Displays temperature, weather description, humidity, and wind speed.
 - Allows users to search for weather conditions in different locations.
 
-## Preview
-
-![Weather Website Preview](weather-website-preview.png)
-
 ## Technologies Used
 
 - HTML5
